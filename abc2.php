@@ -2,6 +2,6 @@
 
 echo "dasdada";
 
-chnages fsf ffsf
+chnages fsf ffsf chnage again file into abc2.php
  
-?>
+?> 
